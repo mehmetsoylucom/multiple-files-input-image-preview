@@ -1,3 +1,3 @@
-.row {
-    margin-bottom: 10px
-}
+$(document).ready(function () {
+    console.log('Hi!');
+});

@@ -1,17 +1,3 @@
-{
-  "name": "preview",
-  "homepage": "https://github.com/mehmetsoylucom/multiple-files-input-image-preview",
-  "authors": [
-    "mehmetsoylucom <mehmet@soylu.net>"
-  ],
-  "description": "",
-  "main": "",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+.row {
+    margin-bottom: 10px
 }
